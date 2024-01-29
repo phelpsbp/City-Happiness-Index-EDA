@@ -1,4 +1,4 @@
-# City Happiness Index - 2024 | EDA | Python
+# City Happiness - Python | Regression Models | Correlation Analysis
 ### Exploratory Analysis of Factors Affecting Urban Well-being & Satisfaction
 Key files of interest in this directory are:
 
